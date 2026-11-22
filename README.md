@@ -51,7 +51,7 @@ Amarkala dikembangkan bersama **Noble Catalyst** dan **Pemuda Mendunia**, dan se
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/<username>/amarkala.git
+git clone https://github.com/Raisyaauliya/Amarkala.git
 cd amarkala
 
 # 2. Install dependency
