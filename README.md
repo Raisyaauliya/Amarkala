@@ -22,6 +22,8 @@ Platform transparansi data pendidikan Indonesia: verifikasi status KIP, database
 
 ---
 
+**Live demo:** https://raisyaauliya.github.io/Amarkala/
+
 ## Tentang Amarkala
 
 Banyak siswa yang berhak menerima bantuan pendidikan justru tidak tercatat, sementara bantuan lain jatuh ke penerima yang salah sasaran. Amarkala hadir sebagai ekosistem yang membuat data bantuan pendidikan lebih terbuka, mudah dicek, dan bisa dilaporkan oleh masyarakat.

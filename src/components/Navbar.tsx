@@ -50,7 +50,7 @@ export default function Navbar({ currentPage, onNavigate }: NavbarProps) {
           >
             <div className="bg-white rounded-lg px-3 py-1 shadow-sm group-hover:shadow-md transition-shadow">
               <img
-                src="/Logo_gabungan_amarkala_dan_noble_dan_pemuda_pemdunia.png"
+                src={`${import.meta.env.BASE_URL}Logo_gabungan_amarkala_dan_noble_dan_pemuda_pemdunia.png`}
                 alt="AMARKALA — Pemuda Mendunia & Global Youth Innovation Summit"
                 className="h-7 w-auto object-contain"
               />
